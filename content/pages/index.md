@@ -7,7 +7,7 @@ sections:
       text: Connecting Job Seekers & Employers
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Where Opportunities Meet Talent.
     text: >
       LinkAssist simplifies the process of matching job seekers with employers.
       Our platform offers a seamless way to find and connect with the right
