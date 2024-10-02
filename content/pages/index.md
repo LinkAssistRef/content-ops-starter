@@ -83,7 +83,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Diverse Job Opportunities
-        subtitle: The Job Stuff
+        subtitle: What We Offer
         text: >
           Explore a wide range of job categories tailored to your expertise,
           from IT to trades, ensuring you find the right fit.
