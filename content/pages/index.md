@@ -53,7 +53,7 @@ sections:
     subtitle: Unlock more job prospects.
     items:
       - type: FeaturedItem
-        title: ''
+        title: Sit Back and Let Us Do the Work
         subtitle: Sit Back and Let Us Do the Work
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
