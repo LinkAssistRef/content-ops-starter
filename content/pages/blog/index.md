@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: false
 topSections:
   - title:
-      text: About us
+      text: About LinkAssist
       color: text-dark
       type: TitleBlock
     subtitle: ''
