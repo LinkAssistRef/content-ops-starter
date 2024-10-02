@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: LinkA
+      label: LinkASSiST
       color: text-primary
       type: Badge
     elementId: ''
