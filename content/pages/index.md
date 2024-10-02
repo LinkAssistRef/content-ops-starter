@@ -84,10 +84,9 @@ sections:
               borderRadius: x-large
       - title: Diverse Job Opportunities
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Explore a wide range of job categories tailored to your expertise,
+          from IT to trades, ensuring you find the right fit.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
