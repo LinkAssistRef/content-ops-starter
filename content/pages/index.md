@@ -55,10 +55,11 @@ sections:
       - type: FeaturedItem
         title: Effortless Connections
         subtitle: Sit Back and Let Us Do the Work
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          At LinkAssist, we simplify the job matching process. Just provide your
+          requirements, and let our advanced system handle the rest. No more
+          endless searching—our platform connects job seekers and employers
+          seamlessly, ensuring you find the right fit without any hassle.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
