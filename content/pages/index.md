@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Connecting Job seekersEmployers
+      text: Connecting Job Seekers Employers
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
