@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      LinkAssist simplifies the process of matching job seekers with employers.
+      Our platform offers a seamless way to find and connect with the right
+      opportunities and talent, tailored to your needs.
     actions:
       - label: Get started
         altText: ''
