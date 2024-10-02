@@ -3,9 +3,13 @@ title: Connecting Talent with Opportunity
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  At LinkAssist, we are dedicated to simplifying the job matching process for
+  both employers and job seekers. Our mission is to create a seamless platform
+  that connects individuals with the right opportunities and talent tailored to
+  their specific needs. With a user-friendly interface and efficient matching
+  system, we strive to make the job search and recruitment process easier and
+  more effective for everyone involved. Whether you’re looking for your next
+  hire or your next job, we’re here to help you succeed.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
