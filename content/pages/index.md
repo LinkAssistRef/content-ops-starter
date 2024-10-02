@@ -107,7 +107,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Save Time & Effort
-        subtitle: Faster
+        subtitle: Effortless Connections
         text: >
           Experience faster connections and streamlined processes. Let us handle
           the matching while you focus on what matters most.
