@@ -44,7 +44,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Connect with a diverse pool of talent.
       color: text-dark
       styles:
         self:
