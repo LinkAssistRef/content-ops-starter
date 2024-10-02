@@ -50,7 +50,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Unlock more job prospects.
     items:
       - type: FeaturedItem
         title: 500k
