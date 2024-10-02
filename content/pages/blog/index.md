@@ -2,7 +2,7 @@
 title: About us
 slug: /blog
 numOfPostsPerPage: 12
-enableSearch: true
+enableSearch: false
 topSections:
   - title:
       text: About us
