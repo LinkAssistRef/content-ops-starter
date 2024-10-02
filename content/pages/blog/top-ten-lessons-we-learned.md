@@ -1,5 +1,5 @@
 ---
-title: About LinkAssist
+title: Connecting Talent with Opportunity
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
