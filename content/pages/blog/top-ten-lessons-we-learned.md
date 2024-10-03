@@ -1,7 +1,7 @@
 ---
 title: Connecting Talent with Opportunity
 slug: top-ten-lessons-we-learned
-date: '2024-10-03'
+date: '2024-09-03'
 excerpt: >-
   At LinkAssist, we are dedicated to simplifying the job matching process for
   both employers and job seekers. Our mission is to create a seamless platform
